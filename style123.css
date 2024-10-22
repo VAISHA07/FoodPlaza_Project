@@ -1,0 +1,10 @@
+.parent{
+	height: 210px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.child{
+	width: 40%;
+}
